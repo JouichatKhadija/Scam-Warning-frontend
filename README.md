@@ -49,6 +49,7 @@ src/
  ## Documentation
  
  - [View Presentation Slides](https://app.presentations.ai/view/Ss8yxh32ea)
+ - [📄 Read Project Report (PDF)](./RAPPORT_SCAM_WARNING.pdf)
 
 ## License
 
